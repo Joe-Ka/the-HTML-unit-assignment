@@ -1,0 +1,6 @@
+/*listli {}*/
+/*#texts {display: flex; justify-content: center;}*/
+td, tr {border: dashed !important;}
+table {border: double; width: 65%; text-align: center; border-color: rgb(46, 21, 21);}
+th {border: solid}
+span { display: flex; justify-content: center;}
